@@ -1,14 +1,3 @@
 
-U
-java:S1854"8Remove this useless assignment to local variable "num2".(¤å“Ó8‰‘é’½1
-U
-java:S1854"8Remove this useless assignment to local variable "num1".(æ‘İ8‰‘é’½1
-M
-java:S1481"+Remove this unused "runApp" local variable.(‰˜ˆÕüÿÿÿÿ8Œ‘é’½1
-K
-java:S1481	")Remove this unused "num1" local variable.(›á†şÿÿÿÿ8Œ‘é’½1
-E
-java:S1481
-")Remove this unused "num2" local variable.(’šß18Œ‘é’½1
-P
-java:S1481".Remove this unused "operation" local variable.(ëÌ«„şÿÿÿÿ8Œ‘é’½1
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(º™Ú78ğ¥èœ½1
