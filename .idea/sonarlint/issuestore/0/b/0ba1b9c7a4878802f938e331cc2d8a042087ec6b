@@ -1,3 +1,14 @@
 
-G
-java:S3457"%String contains no format specifiers.(Šª„ıÿÿÿÿ8·Çß½1
+U
+java:S1854"8Remove this useless assignment to local variable "num2".(¤å“Ó8‰‘é’½1
+U
+java:S1854"8Remove this useless assignment to local variable "num1".(æ‘İ8‰‘é’½1
+M
+java:S1481"+Remove this unused "runApp" local variable.(‰˜ˆÕüÿÿÿÿ8Œ‘é’½1
+K
+java:S1481	")Remove this unused "num1" local variable.(›á†şÿÿÿÿ8Œ‘é’½1
+E
+java:S1481
+")Remove this unused "num2" local variable.(’šß18Œ‘é’½1
+P
+java:S1481".Remove this unused "operation" local variable.(ëÌ«„şÿÿÿÿ8Œ‘é’½1
